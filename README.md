@@ -22,13 +22,13 @@ Skills:-
 12. Version Control System like Git.
 13. Database Systems like Microsoft SQL Server and Oracle.
 14. Cloud -
-  1. Microsoft Azure using services like Azure Service Bus, Storage and Azure DevOps, Azure Container Registry.
-  2. AWS Cloud Practitioner.
+  14.1. Microsoft Azure using services like Azure Service Bus, Storage and Azure DevOps, Azure Container Registry.
+  14.2. AWS Cloud Practitioner.
 15. Atlassian Applications like Jira, Bitbucket and Confluence.
 16. Carry expertise in Agile SCRUM, Agile KANBAN, Feature Team and System Thinking model of development.
 17. Business Domain expertise in 
-  1. Finance - UK Pensions and UK Equity Release. Certified Licentiate in Insurance from Indian Institute of Insurance.
-  2. ECommerce - B2C Multi-tenant ecommerce application.
+  17.1. Finance - UK Pensions and UK Equity Release. Certified Licentiate in Insurance from Indian Institute of Insurance.
+  17.2. ECommerce - B2C Multi-tenant ecommerce application.
 18. Docker, Kubernetes, Helm and Terraform.
 <br>
 <br>
