@@ -1,5 +1,5 @@
 ### Sukant Agarwal
-Analyst Programmer specializing in designing, developing and maintinaing Web applications using Event-Driven Architecture in .Net Tech stack.
+Analyst Programmer specializing in designing, developing and maintinaing Web applications using Event-Driven Architecture in .Net and Go Tech stack.
 
 Skills:-
 <br>
