@@ -11,7 +11,7 @@ Skills:-
 1. Requirement Engineering, Solution Designing, Code Build and Deploy, and Test Automation.
 2. Creating, Migrating and maintaining scalable distributed applications using Microservices Architecture that communicate both synchronously and asynchronously.
 3. Headless architecture applications like Contentful CMS, Commercetools - ECommerce platform.
-4. Programming languages like C# with experience in both Object oriented programming and Functional Programming paradigm (using LanguageExt).
+4. Programming languages like C# and Go with experience in both Object oriented programming and Functional Programming paradigm.
 5. Microsoft Frameworks like .Net Framework and .Net Core (2.1, 3.2 and Dotnet 5).
 6. Unit Testing Framework like NUnit, Xunit; Mocking framework like Moq and WireMock.
 7. Logging Framework like Nlog, Log4net and Serilog.
@@ -29,6 +29,7 @@ Skills:-
 17. Business Domain expertise in 
 	* Finance - UK Pensions and UK Equity Release. Certified Licentiate in Insurance from Indian Institute of Insurance.
 	* ECommerce - B2C Multi-tenant ecommerce application.
+	* Motor Insurance with Carbon Crediting
 18. Docker, Kubernetes, Helm and Terraform.
 <br>
 <br>
