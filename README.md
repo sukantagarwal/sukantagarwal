@@ -1,5 +1,5 @@
 ### Sukant Agarwal
-Analyst Programmer specializing in designing, developing and maintinaing Web applications using Event-Driven Architecture in .Net and Go Tech stack.
+Fullstack Analyst Programmer specializing in designing, developing and maintinaing Web applications using Event-Driven Architecture and Serverless Infra.
 
 Skills:-
 <br>
@@ -11,16 +11,16 @@ Skills:-
 1. Requirement Engineering, Solution Designing, Code Build and Deploy, and Test Automation.
 2. Creating, Migrating and maintaining scalable distributed applications using Microservices Architecture that communicate both synchronously and asynchronously.
 3. Headless architecture applications like Contentful CMS, Commercetools - ECommerce platform.
-4. Programming languages like C# and Go with experience in both Object oriented programming and Functional Programming paradigm.
-5. Microsoft Frameworks like .Net Framework and .Net Core (2.1, 3.2 and Dotnet 5).
-6. Unit Testing Framework like NUnit, Xunit; Mocking framework like Moq and WireMock.
+4. Frontend Framework like ReactJS & NextJS.
+5. Programming languages like JavaScript, TypeScript, Go and C#.
+6. Unit Testing Framework like NUnit, Xunit, Jest and Cypress; Mocking framework like Moq and WireMock.
 7. Logging Framework like Nlog, Log4net and Serilog.
-8. Using monitoring tools like Splunk and Datadog.
-9. Documentation Framework like Swagger and OpenApi implemented using NSwag and Swashbuckle.
+8. Using monitoring tools like Splunk, Datadog, Grafana and AWS Cloudwatch.
+9. Documentation Framework like Swagger, OpenApi, PlantUML.
 10. Well experienced in using Microservices patterns like CQRS, Saga - Orchestrator and Choreography, Circuit breaker, Event Driven Patterns like Event sourcing, Event Streaming, Repository and Service Pattern and Mediator Pattern using MediatR.
-11. Messaging Framework like Kafka and ActiveMQ.
+11. Messaging & Streaming Framework like Kafka, ActiveMQ, AWS SQS and AWS SNS.
 12. Version Control System like Git.
-13. Database Systems like Microsoft SQL Server and Oracle.
+13. Database Systems like Microsoft SQL Server, Oracle and AWS DynamoDb.
 14. Cloud
 	* Microsoft Azure using services like Azure Service Bus, Storage and Azure DevOps, Azure Container Registry.
 	* AWS Cloud Practitioner.
